@@ -3,7 +3,6 @@
 Cargo.lock
 
 # IDE and editor files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -52,8 +51,6 @@ yarn-error.log*
 .yarn-integrity
 
 # dotenv environment variables file
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -181,3 +178,4 @@ local-bin/
 # Container files
 Dockerfile.local
 docker-compose.override.yml
+config.bat
